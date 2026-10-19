@@ -1,0 +1,380 @@
+date,item,units_wasted,wastage_cost
+2026-07-01,Veg Puff,7,98
+2026-07-01,Brownie,2,80
+2026-07-01,Veg Sandwich,1,32
+2026-07-01,Ice Cream Sundae,1,55
+2026-07-02,Veg Puff,7,98
+2026-07-02,Brownie,2,80
+2026-07-02,Veg Sandwich,2,64
+2026-07-02,Ice Cream Sundae,3,165
+2026-07-02,Cheese Sandwich,1,55
+2026-07-03,Veg Puff,1,14
+2026-07-03,Brownie,1,40
+2026-07-03,Veg Sandwich,1,32
+2026-07-03,Ice Cream Sundae,3,165
+2026-07-03,Cheese Sandwich,1,55
+2026-07-04,Veg Puff,3,42
+2026-07-04,Brownie,4,160
+2026-07-04,Veg Sandwich,3,96
+2026-07-04,Ice Cream Sundae,3,165
+2026-07-04,Cheese Sandwich,1,55
+2026-07-05,Veg Puff,4,56
+2026-07-05,Brownie,2,80
+2026-07-05,Veg Sandwich,2,64
+2026-07-05,Ice Cream Sundae,1,55
+2026-07-05,Cheese Sandwich,2,110
+2026-07-06,Veg Puff,2,28
+2026-07-06,Brownie,1,40
+2026-07-06,Veg Sandwich,2,64
+2026-07-06,Ice Cream Sundae,2,110
+2026-07-06,Cheese Sandwich,1,55
+2026-07-07,Veg Puff,2,28
+2026-07-07,Brownie,2,80
+2026-07-07,Veg Sandwich,2,64
+2026-07-07,Ice Cream Sundae,1,55
+2026-07-07,Cheese Sandwich,1,55
+2026-07-08,Veg Puff,4,56
+2026-07-08,Brownie,3,120
+2026-07-08,Veg Sandwich,2,64
+2026-07-09,Veg Puff,2,28
+2026-07-09,Veg Sandwich,2,64
+2026-07-09,Ice Cream Sundae,2,110
+2026-07-10,Veg Puff,2,28
+2026-07-10,Brownie,3,120
+2026-07-10,Veg Sandwich,1,32
+2026-07-10,Ice Cream Sundae,5,275
+2026-07-10,Cheese Sandwich,3,165
+2026-07-11,Veg Puff,1,14
+2026-07-11,Brownie,2,80
+2026-07-11,Ice Cream Sundae,2,110
+2026-07-11,Cheese Sandwich,3,165
+2026-07-12,Veg Puff,1,14
+2026-07-12,Veg Sandwich,2,64
+2026-07-12,Ice Cream Sundae,1,55
+2026-07-12,Cheese Sandwich,2,110
+2026-07-13,Veg Puff,4,56
+2026-07-13,Veg Sandwich,3,96
+2026-07-13,Ice Cream Sundae,1,55
+2026-07-13,Cheese Sandwich,2,110
+2026-07-14,Veg Puff,2,28
+2026-07-14,Brownie,2,80
+2026-07-14,Veg Sandwich,2,64
+2026-07-14,Ice Cream Sundae,2,110
+2026-07-14,Cheese Sandwich,1,55
+2026-07-15,Brownie,1,40
+2026-07-15,Ice Cream Sundae,1,55
+2026-07-15,Cheese Sandwich,4,220
+2026-07-16,Veg Puff,4,56
+2026-07-16,Brownie,2,80
+2026-07-16,Veg Sandwich,1,32
+2026-07-16,Ice Cream Sundae,2,110
+2026-07-16,Cheese Sandwich,2,110
+2026-07-17,Veg Puff,1,14
+2026-07-17,Veg Sandwich,1,32
+2026-07-18,Veg Puff,3,42
+2026-07-18,Brownie,2,80
+2026-07-18,Veg Sandwich,3,96
+2026-07-18,Ice Cream Sundae,1,55
+2026-07-19,Veg Puff,3,42
+2026-07-19,Brownie,2,80
+2026-07-19,Ice Cream Sundae,3,165
+2026-07-19,Cheese Sandwich,1,55
+2026-07-20,Veg Puff,3,42
+2026-07-20,Brownie,2,80
+2026-07-20,Ice Cream Sundae,3,165
+2026-07-21,Veg Puff,3,42
+2026-07-21,Brownie,2,80
+2026-07-21,Veg Sandwich,1,32
+2026-07-21,Ice Cream Sundae,2,110
+2026-07-21,Cheese Sandwich,1,55
+2026-07-22,Veg Puff,5,70
+2026-07-22,Brownie,3,120
+2026-07-22,Veg Sandwich,2,64
+2026-07-23,Veg Puff,3,42
+2026-07-23,Brownie,3,120
+2026-07-23,Cheese Sandwich,1,55
+2026-07-24,Veg Puff,2,28
+2026-07-24,Brownie,2,80
+2026-07-24,Veg Sandwich,3,96
+2026-07-24,Ice Cream Sundae,3,165
+2026-07-24,Cheese Sandwich,2,110
+2026-07-25,Veg Puff,2,28
+2026-07-25,Brownie,3,120
+2026-07-25,Veg Sandwich,4,128
+2026-07-25,Ice Cream Sundae,4,220
+2026-07-25,Cheese Sandwich,1,55
+2026-07-26,Veg Puff,3,42
+2026-07-26,Brownie,2,80
+2026-07-27,Brownie,5,200
+2026-07-27,Veg Sandwich,3,96
+2026-07-28,Veg Puff,1,14
+2026-07-28,Brownie,2,80
+2026-07-28,Veg Sandwich,1,32
+2026-07-28,Ice Cream Sundae,2,110
+2026-07-28,Cheese Sandwich,1,55
+2026-07-29,Veg Puff,5,70
+2026-07-29,Brownie,1,40
+2026-07-29,Veg Sandwich,2,64
+2026-07-29,Ice Cream Sundae,3,165
+2026-07-29,Cheese Sandwich,1,55
+2026-07-30,Veg Puff,2,28
+2026-07-30,Brownie,3,120
+2026-07-30,Veg Sandwich,2,64
+2026-07-30,Ice Cream Sundae,2,110
+2026-07-30,Cheese Sandwich,2,110
+2026-07-31,Veg Puff,1,14
+2026-07-31,Brownie,1,40
+2026-07-31,Veg Sandwich,1,32
+2026-07-31,Ice Cream Sundae,2,110
+2026-07-31,Cheese Sandwich,1,55
+2026-08-01,Veg Puff,2,28
+2026-08-01,Brownie,3,120
+2026-08-01,Ice Cream Sundae,1,55
+2026-08-01,Cheese Sandwich,2,110
+2026-08-02,Veg Puff,4,56
+2026-08-02,Brownie,4,160
+2026-08-02,Veg Sandwich,2,64
+2026-08-02,Cheese Sandwich,2,110
+2026-08-03,Veg Puff,5,70
+2026-08-03,Brownie,4,160
+2026-08-03,Veg Sandwich,2,64
+2026-08-03,Ice Cream Sundae,1,55
+2026-08-03,Cheese Sandwich,2,110
+2026-08-04,Veg Puff,3,42
+2026-08-04,Brownie,2,80
+2026-08-04,Veg Sandwich,4,128
+2026-08-04,Ice Cream Sundae,1,55
+2026-08-04,Cheese Sandwich,2,110
+2026-08-05,Veg Puff,7,98
+2026-08-05,Brownie,4,160
+2026-08-05,Veg Sandwich,3,96
+2026-08-05,Ice Cream Sundae,2,110
+2026-08-06,Veg Puff,3,42
+2026-08-06,Veg Sandwich,6,192
+2026-08-06,Ice Cream Sundae,1,55
+2026-08-07,Veg Puff,3,42
+2026-08-07,Brownie,3,120
+2026-08-07,Veg Sandwich,3,96
+2026-08-07,Ice Cream Sundae,3,165
+2026-08-07,Cheese Sandwich,1,55
+2026-08-08,Veg Puff,1,14
+2026-08-08,Veg Sandwich,2,64
+2026-08-08,Ice Cream Sundae,1,55
+2026-08-09,Veg Puff,4,56
+2026-08-09,Ice Cream Sundae,2,110
+2026-08-10,Veg Puff,3,42
+2026-08-10,Brownie,3,120
+2026-08-10,Veg Sandwich,1,32
+2026-08-10,Ice Cream Sundae,3,165
+2026-08-10,Cheese Sandwich,2,110
+2026-08-11,Veg Puff,5,70
+2026-08-11,Brownie,1,40
+2026-08-11,Veg Sandwich,1,32
+2026-08-11,Ice Cream Sundae,1,55
+2026-08-12,Veg Puff,5,70
+2026-08-12,Brownie,5,200
+2026-08-12,Veg Sandwich,3,96
+2026-08-12,Ice Cream Sundae,2,110
+2026-08-12,Cheese Sandwich,1,55
+2026-08-13,Veg Puff,1,14
+2026-08-13,Brownie,1,40
+2026-08-13,Veg Sandwich,2,64
+2026-08-13,Ice Cream Sundae,2,110
+2026-08-13,Cheese Sandwich,2,110
+2026-08-14,Veg Puff,3,42
+2026-08-14,Brownie,4,160
+2026-08-14,Veg Sandwich,1,32
+2026-08-14,Ice Cream Sundae,1,55
+2026-08-14,Cheese Sandwich,1,55
+2026-08-15,Veg Puff,3,42
+2026-08-15,Veg Sandwich,4,128
+2026-08-15,Ice Cream Sundae,5,275
+2026-08-15,Cheese Sandwich,3,165
+2026-08-16,Veg Puff,3,42
+2026-08-16,Brownie,3,120
+2026-08-16,Veg Sandwich,1,32
+2026-08-16,Ice Cream Sundae,1,55
+2026-08-17,Brownie,3,120
+2026-08-17,Veg Sandwich,3,96
+2026-08-18,Veg Puff,2,28
+2026-08-18,Brownie,2,80
+2026-08-18,Veg Sandwich,2,64
+2026-08-18,Ice Cream Sundae,1,55
+2026-08-18,Cheese Sandwich,2,110
+2026-08-19,Veg Puff,1,14
+2026-08-19,Brownie,1,40
+2026-08-19,Veg Sandwich,1,32
+2026-08-19,Ice Cream Sundae,3,165
+2026-08-20,Veg Puff,4,56
+2026-08-20,Brownie,3,120
+2026-08-20,Veg Sandwich,3,96
+2026-08-20,Ice Cream Sundae,4,220
+2026-08-21,Veg Puff,4,56
+2026-08-21,Brownie,3,120
+2026-08-21,Veg Sandwich,3,96
+2026-08-21,Ice Cream Sundae,1,55
+2026-08-22,Veg Puff,2,28
+2026-08-22,Brownie,2,80
+2026-08-22,Veg Sandwich,2,64
+2026-08-22,Ice Cream Sundae,1,55
+2026-08-23,Veg Puff,3,42
+2026-08-23,Brownie,3,120
+2026-08-23,Veg Sandwich,2,64
+2026-08-23,Ice Cream Sundae,2,110
+2026-08-24,Veg Puff,4,56
+2026-08-24,Brownie,1,40
+2026-08-24,Veg Sandwich,1,32
+2026-08-24,Ice Cream Sundae,3,165
+2026-08-25,Veg Puff,2,28
+2026-08-25,Brownie,2,80
+2026-08-25,Veg Sandwich,3,96
+2026-08-25,Ice Cream Sundae,1,55
+2026-08-26,Veg Puff,1,14
+2026-08-26,Brownie,4,160
+2026-08-26,Veg Sandwich,3,96
+2026-08-26,Ice Cream Sundae,2,110
+2026-08-27,Veg Puff,1,14
+2026-08-27,Brownie,1,40
+2026-08-27,Veg Sandwich,3,96
+2026-08-27,Ice Cream Sundae,1,55
+2026-08-27,Cheese Sandwich,1,55
+2026-08-28,Veg Puff,4,56
+2026-08-28,Brownie,1,40
+2026-08-28,Veg Sandwich,3,96
+2026-08-28,Cheese Sandwich,1,55
+2026-08-29,Veg Puff,2,28
+2026-08-29,Brownie,2,80
+2026-08-29,Veg Sandwich,2,64
+2026-08-29,Ice Cream Sundae,2,110
+2026-08-29,Cheese Sandwich,2,110
+2026-08-30,Veg Puff,6,84
+2026-08-30,Brownie,3,120
+2026-08-30,Veg Sandwich,3,96
+2026-08-30,Cheese Sandwich,3,165
+2026-08-31,Veg Puff,4,56
+2026-08-31,Ice Cream Sundae,1,55
+2026-08-31,Cheese Sandwich,2,110
+2026-09-01,Veg Puff,1,14
+2026-09-01,Brownie,2,80
+2026-09-01,Veg Sandwich,1,32
+2026-09-01,Ice Cream Sundae,2,110
+2026-09-01,Cheese Sandwich,2,110
+2026-09-02,Veg Puff,1,14
+2026-09-02,Brownie,2,80
+2026-09-02,Veg Sandwich,4,128
+2026-09-02,Ice Cream Sundae,1,55
+2026-09-03,Veg Puff,8,112
+2026-09-03,Brownie,5,200
+2026-09-03,Veg Sandwich,1,32
+2026-09-03,Cheese Sandwich,1,55
+2026-09-04,Brownie,2,80
+2026-09-04,Veg Sandwich,2,64
+2026-09-04,Ice Cream Sundae,1,55
+2026-09-05,Veg Puff,4,56
+2026-09-05,Brownie,1,40
+2026-09-05,Veg Sandwich,4,128
+2026-09-05,Cheese Sandwich,2,110
+2026-09-06,Veg Puff,5,70
+2026-09-06,Brownie,2,80
+2026-09-06,Veg Sandwich,1,32
+2026-09-06,Ice Cream Sundae,3,165
+2026-09-06,Cheese Sandwich,1,55
+2026-09-07,Veg Puff,5,70
+2026-09-07,Veg Sandwich,1,32
+2026-09-07,Ice Cream Sundae,1,55
+2026-09-07,Cheese Sandwich,1,55
+2026-09-08,Veg Puff,1,14
+2026-09-08,Veg Sandwich,2,64
+2026-09-08,Ice Cream Sundae,3,165
+2026-09-08,Cheese Sandwich,1,55
+2026-09-09,Veg Puff,5,70
+2026-09-09,Brownie,5,200
+2026-09-09,Veg Sandwich,3,96
+2026-09-09,Ice Cream Sundae,4,220
+2026-09-09,Cheese Sandwich,1,55
+2026-09-10,Veg Puff,5,70
+2026-09-10,Brownie,3,120
+2026-09-10,Veg Sandwich,2,64
+2026-09-10,Cheese Sandwich,1,55
+2026-09-11,Veg Puff,1,14
+2026-09-11,Brownie,1,40
+2026-09-11,Veg Sandwich,3,96
+2026-09-11,Ice Cream Sundae,1,55
+2026-09-11,Cheese Sandwich,2,110
+2026-09-12,Veg Puff,2,28
+2026-09-12,Brownie,2,80
+2026-09-12,Ice Cream Sundae,1,55
+2026-09-12,Cheese Sandwich,1,55
+2026-09-13,Veg Puff,3,42
+2026-09-13,Brownie,3,120
+2026-09-13,Veg Sandwich,3,96
+2026-09-14,Veg Puff,3,42
+2026-09-14,Brownie,4,160
+2026-09-14,Veg Sandwich,1,32
+2026-09-14,Ice Cream Sundae,2,110
+2026-09-15,Brownie,1,40
+2026-09-15,Veg Sandwich,4,128
+2026-09-15,Cheese Sandwich,2,110
+2026-09-16,Veg Puff,5,70
+2026-09-16,Brownie,2,80
+2026-09-16,Veg Sandwich,5,160
+2026-09-16,Ice Cream Sundae,1,55
+2026-09-17,Veg Puff,4,56
+2026-09-17,Brownie,1,40
+2026-09-17,Veg Sandwich,1,32
+2026-09-17,Ice Cream Sundae,2,110
+2026-09-17,Cheese Sandwich,1,55
+2026-09-18,Veg Puff,1,14
+2026-09-18,Brownie,3,120
+2026-09-18,Veg Sandwich,1,32
+2026-09-18,Ice Cream Sundae,1,55
+2026-09-18,Cheese Sandwich,2,110
+2026-09-19,Veg Puff,4,56
+2026-09-19,Brownie,3,120
+2026-09-19,Veg Sandwich,3,96
+2026-09-19,Ice Cream Sundae,2,110
+2026-09-20,Veg Puff,5,70
+2026-09-20,Brownie,1,40
+2026-09-20,Veg Sandwich,3,96
+2026-09-21,Veg Puff,1,14
+2026-09-21,Brownie,7,280
+2026-09-21,Veg Sandwich,2,64
+2026-09-21,Ice Cream Sundae,1,55
+2026-09-22,Veg Puff,4,56
+2026-09-22,Brownie,4,160
+2026-09-22,Veg Sandwich,2,64
+2026-09-22,Ice Cream Sundae,1,55
+2026-09-22,Cheese Sandwich,1,55
+2026-09-23,Veg Puff,2,28
+2026-09-23,Ice Cream Sundae,1,55
+2026-09-23,Cheese Sandwich,3,165
+2026-09-24,Veg Puff,3,42
+2026-09-24,Brownie,3,120
+2026-09-24,Veg Sandwich,1,32
+2026-09-24,Ice Cream Sundae,2,110
+2026-09-25,Veg Puff,1,14
+2026-09-25,Brownie,4,160
+2026-09-25,Veg Sandwich,4,128
+2026-09-25,Ice Cream Sundae,1,55
+2026-09-26,Veg Puff,3,42
+2026-09-26,Brownie,2,80
+2026-09-26,Veg Sandwich,1,32
+2026-09-26,Ice Cream Sundae,1,55
+2026-09-27,Veg Puff,5,70
+2026-09-27,Brownie,1,40
+2026-09-27,Veg Sandwich,2,64
+2026-09-27,Ice Cream Sundae,2,110
+2026-09-28,Veg Puff,2,28
+2026-09-28,Brownie,4,160
+2026-09-28,Veg Sandwich,1,32
+2026-09-28,Ice Cream Sundae,1,55
+2026-09-29,Veg Puff,2,28
+2026-09-29,Brownie,2,80
+2026-09-29,Veg Sandwich,1,32
+2026-09-29,Ice Cream Sundae,1,55
+2026-09-29,Cheese Sandwich,3,165
+2026-09-30,Veg Puff,2,28
+2026-09-30,Brownie,1,40
+2026-09-30,Veg Sandwich,1,32
+2026-09-30,Ice Cream Sundae,1,55
+2026-09-30,Cheese Sandwich,4,220
